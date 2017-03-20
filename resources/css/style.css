@@ -10,7 +10,7 @@ h1 {
 }
 
 section {
-  background: url('file:///C:/cygwin64/home/Tim/projects/broadway/resources/images/the-flatiron-building.png') center;
+  background: url('resources/images/the-flatiron-building.png') center;
   background-size: cover;
 }
 
@@ -33,7 +33,7 @@ div p {
 }
 
 #soon {
-  background: url('file:///C:/cygwin64/home/Tim/projects/broadway/resources/images/the-flatiron-building.png') center;
+  background: url('resources/images/the-flatiron-building.png') center;
   background-size: cover;
   font-size: 23px;
   font-weight: bold;
