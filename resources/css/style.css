@@ -9,8 +9,9 @@ h1 {
   color: white;
 }
 
+/* I'm having a bit of trouble with these image links as you can see. any url pointing to the uploaded directory (ie. /resources/images/*.png) just won't work, unless I put the full url*/
 section {
-  background: url('resources/images/the-flatiron-building.png') center;
+  background: url('https://github.com/hgotia/broadway/blob/master/resources/images/the-flatiron-building.png?raw=true') center;
   background-size: cover;
 }
 
@@ -33,7 +34,7 @@ div p {
 }
 
 #soon {
-  background: url('resources/images/the-flatiron-building.png') center;
+  background: url('https://github.com/hgotia/broadway/blob/master/resources/images/the-flatiron-building.png?raw=true') center;
   background-size: cover;
   font-size: 23px;
   font-weight: bold;
